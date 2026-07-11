@@ -2,10 +2,9 @@ name: Atualizar palpites diariamente
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # todo dia às 12:00 UTC
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
-# Permissão de escrita para o token automático
 permissions:
   contents: write
 
@@ -25,6 +24,8 @@ jobs:
         run: pip install requests
 
       - name: Rodar script
+        env:
+          API_FOOTBALL: ${{ secrets.API_FOOTBALL }}
         run: python script_palpites.py
 
       - name: Commit e push
@@ -32,9 +33,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add palpites.json
-          # Se houver alterações, faz commit e push
           if git diff --staged --quiet; then
-            echo "Nenhuma alteração, não precisa commitar."
+            echo "Nenhuma alteração."
           else
             git commit -m "Palpites atualizados automaticamente"
             git push
