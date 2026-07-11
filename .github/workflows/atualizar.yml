@@ -3,18 +3,23 @@ name: Atualizar palpites diariamente
 on:
   schedule:
     - cron: '0 12 * * *'   # todo dia às 12:00 UTC
-  workflow_dispatch:         # permite rodar manualmente
+  workflow_dispatch:
+
+# Permissão de escrita para o token automático
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Instalar requests
         run: pip install requests
@@ -27,4 +32,10 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add palpites.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Palpites atualizados" && git push)
+          # Se houver alterações, faz commit e push
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração, não precisa commitar."
+          else
+            git commit -m "Palpites atualizados automaticamente"
+            git push
+          fi
