@@ -1,9 +1,16 @@
 import requests
 import json
+import os
 from datetime import datetime, timedelta
 
-API_KEY = os.environ["API_FOOTBALL"]   # Lê o segredo injetado pelo workflow
-COMPETICAO_ID = 2013                             # Brasileirão Série A
+# Tenta obter a chave do ambiente; se não existir, exibe erro claro
+API_KEY = os.environ.get("API_FOOTBALL")
+if not API_KEY:
+    print("❌ ERRO: A variável de ambiente 'API_FOOTBALL' não foi definida.")
+    print("Verifique se o segredo foi criado corretamente no repositório e se o workflow está configurado para injetá-lo.")
+    exit(1)
+
+COMPETICAO_ID = 2013  # Brasileirão Série A
 DIAS_A_FRENTE = 3
 
 headers = {"X-Auth-Token": API_KEY}
@@ -23,7 +30,7 @@ try:
         fora = jogo["awayTeam"]["name"]
         data = jogo["utcDate"]
 
-        # Algoritmo simples de palpite (você pode melhorar depois)
+        # Algoritmo simples de palpite (exemplo)
         if "Flamengo" in casa or "Palmeiras" in casa:
             previsao = casa
         elif "Flamengo" in fora or "Palmeiras" in fora:
@@ -44,6 +51,7 @@ try:
     print(f"✅ JSON gerado com {len(palpites)} jogos.")
 
 except Exception as e:
-    print(f"❌ Erro: {e}")
+    print(f"❌ Erro ao acessar a API: {e}")
+    # Gera um JSON vazio para o site não quebrar
     with open("palpites.json", "w", encoding="utf-8") as f:
         json.dump([], f)
