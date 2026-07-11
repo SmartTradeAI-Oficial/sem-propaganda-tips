@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-API_KEY = "fbb231296c6849efac1114a6f2deb78f"   # ✅ Sua chave real
+API_KEY = os.environ["API_FOOTBALL"]   # Lê o segredo injetado pelo workflow
 COMPETICAO_ID = 2013                             # Brasileirão Série A
 DIAS_A_FRENTE = 3
 
