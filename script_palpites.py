@@ -10,7 +10,7 @@ if not API_KEY:
     print("Verifique se o segredo foi criado corretamente no repositório e se o workflow está configurado para injetá-lo.")
     exit(1)
 
-COMPETICAO_ID = 2000  # Brasileirão Série A
+COMPETICAO_ID = 2013  # Brasileirão Série A
 DIAS_A_FRENTE = 10
 
 headers = {"X-Auth-Token": API_KEY}
