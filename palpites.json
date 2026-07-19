@@ -21,7 +21,7 @@
     "casa": "SC Internacional",
     "fora": "Cruzeiro EC",
     "data": "2026-07-23T00:30:00Z",
-    "previsao": "SC Internacional"
+    "previsao": "Empate"
   },
   {
     "casa": "São Paulo FC",
@@ -33,25 +33,25 @@
     "casa": "Botafogo FR",
     "fora": "EC Vitória",
     "data": "2026-07-23T22:30:00Z",
-    "previsao": "Botafogo FR"
+    "previsao": "Empate"
   },
   {
     "casa": "SC Corinthians Paulista",
     "fora": "Clube do Remo",
     "data": "2026-07-23T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Corinthians Paulista"
   },
   {
     "casa": "CA Paranaense",
     "fora": "SC Internacional",
     "data": "2026-07-25T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "CA Paranaense"
   },
   {
     "casa": "Santos FC",
     "fora": "Chapecoense AF",
     "data": "2026-07-25T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Santos FC"
   },
   {
     "casa": "CR Vasco da Gama",
@@ -63,7 +63,7 @@
     "casa": "EC Bahia",
     "fora": "SC Corinthians Paulista",
     "data": "2026-07-26T19:00:00Z",
-    "previsao": "EC Bahia"
+    "previsao": "Empate"
   },
   {
     "casa": "Cruzeiro EC",
@@ -75,7 +75,7 @@
     "casa": "RB Bragantino",
     "fora": "Coritiba FBC",
     "data": "2026-07-26T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "RB Bragantino"
   },
   {
     "casa": "CR Flamengo",
@@ -99,6 +99,42 @@
     "casa": "Clube do Remo",
     "fora": "EC Vitória",
     "data": "2026-07-26T22:30:00Z",
-    "previsao": "Clube do Remo"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "CA Mineiro",
+    "fora": "RB Bragantino",
+    "data": "2026-07-29T20:00:00Z",
+    "previsao": "CA Mineiro"
+  },
+  {
+    "casa": "Botafogo FR",
+    "fora": "Grêmio FBPA",
+    "data": "2026-07-29T20:00:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Chapecoense AF",
+    "fora": "CR Vasco da Gama",
+    "data": "2026-07-29T20:00:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "São Paulo FC",
+    "fora": "Santos FC",
+    "data": "2026-07-29T20:00:00Z",
+    "previsao": "São Paulo FC"
+  },
+  {
+    "casa": "SC Internacional",
+    "fora": "CR Flamengo",
+    "data": "2026-07-29T22:30:00Z",
+    "previsao": "CR Flamengo"
+  },
+  {
+    "casa": "Mirassol FC",
+    "fora": "Clube do Remo",
+    "data": "2026-07-29T22:30:00Z",
+    "previsao": "Mirassol FC"
   }
 ]
