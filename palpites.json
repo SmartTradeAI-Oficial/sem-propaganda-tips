@@ -21,19 +21,19 @@
     "casa": "SC Internacional",
     "fora": "Cruzeiro EC",
     "data": "2026-07-23T00:30:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Internacional"
   },
   {
     "casa": "São Paulo FC",
     "fora": "CA Paranaense",
     "data": "2026-07-23T00:30:00Z",
-    "previsao": "São Paulo FC"
+    "previsao": "Empate"
   },
   {
     "casa": "Botafogo FR",
     "fora": "EC Vitória",
     "data": "2026-07-23T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Botafogo FR"
   },
   {
     "casa": "SC Corinthians Paulista",
@@ -57,7 +57,7 @@
     "casa": "CR Vasco da Gama",
     "fora": "Mirassol FC",
     "data": "2026-07-25T23:30:00Z",
-    "previsao": "CR Vasco da Gama"
+    "previsao": "Empate"
   },
   {
     "casa": "EC Bahia",
@@ -69,7 +69,7 @@
     "casa": "Cruzeiro EC",
     "fora": "Botafogo FR",
     "data": "2026-07-26T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "RB Bragantino",
@@ -111,19 +111,19 @@
     "casa": "Botafogo FR",
     "fora": "Grêmio FBPA",
     "data": "2026-07-29T20:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Botafogo FR"
   },
   {
     "casa": "Chapecoense AF",
     "fora": "CR Vasco da Gama",
     "data": "2026-07-29T20:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Chapecoense AF"
   },
   {
     "casa": "São Paulo FC",
     "fora": "Santos FC",
     "data": "2026-07-29T20:00:00Z",
-    "previsao": "São Paulo FC"
+    "previsao": "Empate"
   },
   {
     "casa": "SC Internacional",
@@ -135,6 +135,24 @@
     "casa": "Mirassol FC",
     "fora": "Clube do Remo",
     "data": "2026-07-29T22:30:00Z",
-    "previsao": "Mirassol FC"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Fluminense FC",
+    "fora": "EC Bahia",
+    "data": "2026-07-30T00:30:00Z",
+    "previsao": "Fluminense FC"
+  },
+  {
+    "casa": "EC Vitória",
+    "fora": "SE Palmeiras",
+    "data": "2026-07-30T00:30:00Z",
+    "previsao": "SE Palmeiras"
+  },
+  {
+    "casa": "SC Corinthians Paulista",
+    "fora": "CA Paranaense",
+    "data": "2026-07-30T22:30:00Z",
+    "previsao": "SC Corinthians Paulista"
   }
 ]
