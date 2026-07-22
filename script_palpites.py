@@ -11,7 +11,7 @@ if not API_KEY:
     exit(1)
 
 COMPETICAO_ID = 2013  # Brasileirão Série A
-DIAS_A_FRENTE = 10
+DIAS_A_FRENTE = 2
 
 headers = {"X-Auth-Token": API_KEY}
 data_fim = (datetime.now() + timedelta(days=DIAS_A_FRENTE)).strftime("%Y-%m-%d")
