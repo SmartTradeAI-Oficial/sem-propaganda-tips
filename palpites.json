@@ -1,11 +1,5 @@
 [
   {
-    "casa": "CA Mineiro",
-    "fora": "EC Bahia",
-    "data": "2026-07-21T22:30:00Z",
-    "previsao": "CA Mineiro"
-  },
-  {
     "casa": "Coritiba FBC",
     "fora": "SE Palmeiras",
     "data": "2026-07-22T22:30:00Z",
@@ -39,7 +33,7 @@
     "casa": "SC Corinthians Paulista",
     "fora": "Clube do Remo",
     "data": "2026-07-23T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Corinthians Paulista"
   },
   {
     "casa": "CA Paranaense",
@@ -87,7 +81,7 @@
     "casa": "Grêmio FBPA",
     "fora": "Fluminense FC",
     "data": "2026-07-26T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Grêmio FBPA"
   },
   {
     "casa": "SE Palmeiras",
@@ -105,7 +99,7 @@
     "casa": "CA Mineiro",
     "fora": "RB Bragantino",
     "data": "2026-07-29T20:00:00Z",
-    "previsao": "CA Mineiro"
+    "previsao": "Empate"
   },
   {
     "casa": "Botafogo FR",
@@ -135,7 +129,7 @@
     "casa": "Mirassol FC",
     "fora": "Clube do Remo",
     "data": "2026-07-29T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Mirassol FC"
   },
   {
     "casa": "Fluminense FC",
@@ -153,12 +147,12 @@
     "casa": "SC Corinthians Paulista",
     "fora": "CA Paranaense",
     "data": "2026-07-30T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Corinthians Paulista"
   },
   {
     "casa": "Coritiba FBC",
     "fora": "Cruzeiro EC",
     "data": "2026-07-31T00:30:00Z",
-    "previsao": "Coritiba FBC"
+    "previsao": "Empate"
   }
 ]
