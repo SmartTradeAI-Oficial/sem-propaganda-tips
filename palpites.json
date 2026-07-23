@@ -1,38 +1,32 @@
 [
   {
-    "casa": "Coritiba FBC",
-    "fora": "SE Palmeiras",
-    "data": "2026-07-22T22:30:00Z",
-    "previsao": "SE Palmeiras"
-  },
-  {
-    "casa": "Chapecoense AF",
-    "fora": "CR Flamengo",
-    "data": "2026-07-23T00:30:00Z",
-    "previsao": "CR Flamengo"
-  },
-  {
-    "casa": "SC Internacional",
-    "fora": "Cruzeiro EC",
-    "data": "2026-07-23T00:30:00Z",
-    "previsao": "SC Internacional"
-  },
-  {
-    "casa": "São Paulo FC",
-    "fora": "CA Paranaense",
-    "data": "2026-07-23T00:30:00Z",
-    "previsao": "Empate"
-  },
-  {
     "casa": "Botafogo FR",
     "fora": "EC Vitória",
     "data": "2026-07-23T22:30:00Z",
-    "previsao": "Botafogo FR"
+    "previsao": "Empate"
   },
   {
     "casa": "SC Corinthians Paulista",
     "fora": "Clube do Remo",
     "data": "2026-07-23T22:30:00Z",
     "previsao": "SC Corinthians Paulista"
+  },
+  {
+    "casa": "CA Paranaense",
+    "fora": "SC Internacional",
+    "data": "2026-07-25T21:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Santos FC",
+    "fora": "Chapecoense AF",
+    "data": "2026-07-25T21:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "CR Vasco da Gama",
+    "fora": "Mirassol FC",
+    "data": "2026-07-25T23:30:00Z",
+    "previsao": "CR Vasco da Gama"
   }
 ]
