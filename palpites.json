@@ -1,27 +1,9 @@
 [
   {
-    "casa": "CA Paranaense",
-    "fora": "SC Internacional",
-    "data": "2026-07-25T21:30:00Z",
-    "previsao": "CA Paranaense"
-  },
-  {
-    "casa": "Santos FC",
-    "fora": "Chapecoense AF",
-    "data": "2026-07-25T21:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "CR Vasco da Gama",
-    "fora": "Mirassol FC",
-    "data": "2026-07-25T23:30:00Z",
-    "previsao": "Empate"
-  },
-  {
     "casa": "EC Bahia",
     "fora": "SC Corinthians Paulista",
     "data": "2026-07-26T19:00:00Z",
-    "previsao": "EC Bahia"
+    "previsao": "Empate"
   },
   {
     "casa": "Cruzeiro EC",
@@ -33,7 +15,7 @@
     "casa": "RB Bragantino",
     "fora": "Coritiba FBC",
     "data": "2026-07-26T21:30:00Z",
-    "previsao": "RB Bragantino"
+    "previsao": "Empate"
   },
   {
     "casa": "CR Flamengo",
