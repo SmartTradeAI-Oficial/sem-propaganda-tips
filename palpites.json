@@ -9,7 +9,7 @@
     "casa": "Mirassol FC",
     "fora": "Clube do Remo",
     "data": "2026-07-29T22:30:00Z",
-    "previsao": "Mirassol FC"
+    "previsao": "Empate"
   },
   {
     "casa": "Fluminense FC",
@@ -28,5 +28,11 @@
     "fora": "CA Paranaense",
     "data": "2026-07-30T22:30:00Z",
     "previsao": "Empate"
+  },
+  {
+    "casa": "Coritiba FBC",
+    "fora": "Cruzeiro EC",
+    "data": "2026-07-31T00:30:00Z",
+    "previsao": "Coritiba FBC"
   }
 ]
