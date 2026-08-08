@@ -9,13 +9,13 @@
     "casa": "Clube do Remo",
     "fora": "CA Mineiro",
     "data": "2026-08-08T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Clube do Remo"
   },
   {
     "casa": "Coritiba FBC",
     "fora": "Chapecoense AF",
     "data": "2026-08-08T23:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Coritiba FBC"
   },
   {
     "casa": "Botafogo FR",
@@ -27,13 +27,13 @@
     "casa": "Cruzeiro EC",
     "fora": "Mirassol FC",
     "data": "2026-08-09T14:00:00Z",
-    "previsao": "Cruzeiro EC"
+    "previsao": "Empate"
   },
   {
     "casa": "EC Bahia",
     "fora": "CR Vasco da Gama",
     "data": "2026-08-09T19:00:00Z",
-    "previsao": "EC Bahia"
+    "previsao": "Empate"
   },
   {
     "casa": "SE Palmeiras",
@@ -51,7 +51,7 @@
     "casa": "Santos FC",
     "fora": "CA Paranaense",
     "data": "2026-08-09T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Santos FC"
   },
   {
     "casa": "CR Flamengo",
