@@ -1,33 +1,9 @@
 [
   {
-    "casa": "Grêmio FBPA",
-    "fora": "São Paulo FC",
-    "data": "2026-08-08T19:00:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "Clube do Remo",
-    "fora": "CA Mineiro",
-    "data": "2026-08-08T21:30:00Z",
-    "previsao": "Clube do Remo"
-  },
-  {
-    "casa": "Coritiba FBC",
-    "fora": "Chapecoense AF",
-    "data": "2026-08-08T23:30:00Z",
-    "previsao": "Coritiba FBC"
-  },
-  {
-    "casa": "Botafogo FR",
-    "fora": "Fluminense FC",
-    "data": "2026-08-09T00:00:00Z",
-    "previsao": "Empate"
-  },
-  {
     "casa": "Cruzeiro EC",
     "fora": "Mirassol FC",
     "data": "2026-08-09T14:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "EC Bahia",
@@ -45,13 +21,13 @@
     "casa": "RB Bragantino",
     "fora": "SC Corinthians Paulista",
     "data": "2026-08-09T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "RB Bragantino"
   },
   {
     "casa": "Santos FC",
     "fora": "CA Paranaense",
     "data": "2026-08-09T21:30:00Z",
-    "previsao": "Santos FC"
+    "previsao": "Empate"
   },
   {
     "casa": "CR Flamengo",
