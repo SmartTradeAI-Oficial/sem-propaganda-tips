@@ -1,27 +1,21 @@
 [
   {
-    "casa": "São Paulo FC",
-    "fora": "Coritiba FBC",
-    "data": "2026-08-16T00:00:00Z",
-    "previsao": "São Paulo FC"
-  },
-  {
     "casa": "Chapecoense AF",
     "fora": "EC Bahia",
     "data": "2026-08-16T14:00:00Z",
-    "previsao": "Chapecoense AF"
+    "previsao": "Empate"
   },
   {
     "casa": "CA Mineiro",
     "fora": "Grêmio FBPA",
     "data": "2026-08-16T19:00:00Z",
-    "previsao": "CA Mineiro"
+    "previsao": "Empate"
   },
   {
     "casa": "CR Vasco da Gama",
     "fora": "Santos FC",
     "data": "2026-08-16T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "CR Vasco da Gama"
   },
   {
     "casa": "Mirassol FC",
@@ -33,7 +27,7 @@
     "casa": "EC Vitória",
     "fora": "Botafogo FR",
     "data": "2026-08-16T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "EC Vitória"
   },
   {
     "casa": "SC Corinthians Paulista",
@@ -45,6 +39,6 @@
     "casa": "SC Internacional",
     "fora": "Clube do Remo",
     "data": "2026-08-17T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Internacional"
   }
 ]
