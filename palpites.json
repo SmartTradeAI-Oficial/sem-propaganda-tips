@@ -27,7 +27,7 @@
     "casa": "SC Corinthians Paulista",
     "fora": "Santos FC",
     "data": "2026-08-30T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Corinthians Paulista"
   },
   {
     "casa": "CR Flamengo",
@@ -39,18 +39,18 @@
     "casa": "Grêmio FBPA",
     "fora": "Chapecoense AF",
     "data": "2026-08-30T21:30:00Z",
-    "previsao": "Grêmio FBPA"
-  },
-  {
-    "casa": "Mirassol FC",
-    "fora": "SE Palmeiras",
-    "data": "2026-08-30T21:30:00Z",
-    "previsao": "SE Palmeiras"
+    "previsao": "Empate"
   },
   {
     "casa": "EC Bahia",
     "fora": "SC Internacional",
     "data": "2026-08-30T22:30:00Z",
     "previsao": "Empate"
+  },
+  {
+    "casa": "Clube do Remo",
+    "fora": "Coritiba FBC",
+    "data": "2026-08-31T23:00:00Z",
+    "previsao": "Clube do Remo"
   }
 ]
