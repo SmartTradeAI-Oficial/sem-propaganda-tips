@@ -15,7 +15,7 @@
     "casa": "São Paulo FC",
     "fora": "CA Mineiro",
     "data": "2026-09-05T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "São Paulo FC"
   },
   {
     "casa": "Fluminense FC",
@@ -33,13 +33,13 @@
     "casa": "Cruzeiro EC",
     "fora": "CA Paranaense",
     "data": "2026-09-06T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "SC Internacional",
     "fora": "Santos FC",
     "data": "2026-09-06T19:00:00Z",
-    "previsao": "SC Internacional"
+    "previsao": "Empate"
   },
   {
     "casa": "Clube do Remo",
@@ -58,5 +58,11 @@
     "fora": "Chapecoense AF",
     "data": "2026-09-06T22:30:00Z",
     "previsao": "Empate"
+  },
+  {
+    "casa": "EC Vitória",
+    "fora": "Grêmio FBPA",
+    "data": "2026-09-07T23:00:00Z",
+    "previsao": "EC Vitória"
   }
 ]
