@@ -1,11 +1,5 @@
 [
   {
-    "casa": "CR Flamengo",
-    "fora": "Mirassol FC",
-    "data": "2026-09-02T22:30:00Z",
-    "previsao": "CR Flamengo"
-  },
-  {
     "casa": "RB Bragantino",
     "fora": "EC Bahia",
     "data": "2026-09-05T19:00:00Z",
@@ -39,7 +33,7 @@
     "casa": "SC Internacional",
     "fora": "Santos FC",
     "data": "2026-09-06T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Internacional"
   },
   {
     "casa": "Clube do Remo",
