@@ -3,19 +3,19 @@
     "casa": "RB Bragantino",
     "fora": "EC Bahia",
     "data": "2026-09-05T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "RB Bragantino"
   },
   {
     "casa": "São Paulo FC",
     "fora": "CA Mineiro",
     "data": "2026-09-05T21:30:00Z",
-    "previsao": "São Paulo FC"
+    "previsao": "Empate"
   },
   {
     "casa": "Fluminense FC",
     "fora": "CR Vasco da Gama",
     "data": "2026-09-06T00:00:00Z",
-    "previsao": "Fluminense FC"
+    "previsao": "Empate"
   },
   {
     "casa": "Coritiba FBC",
@@ -27,7 +27,7 @@
     "casa": "Cruzeiro EC",
     "fora": "CA Paranaense",
     "data": "2026-09-06T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "SC Internacional",
@@ -51,12 +51,12 @@
     "casa": "SC Corinthians Paulista",
     "fora": "Chapecoense AF",
     "data": "2026-09-06T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Corinthians Paulista"
   },
   {
     "casa": "EC Vitória",
     "fora": "Grêmio FBPA",
     "data": "2026-09-07T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "EC Vitória"
   }
 ]
