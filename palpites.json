@@ -1,29 +1,5 @@
 [
   {
-    "casa": "RB Bragantino",
-    "fora": "EC Bahia",
-    "data": "2026-09-05T19:00:00Z",
-    "previsao": "RB Bragantino"
-  },
-  {
-    "casa": "São Paulo FC",
-    "fora": "CA Mineiro",
-    "data": "2026-09-05T21:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "Fluminense FC",
-    "fora": "CR Vasco da Gama",
-    "data": "2026-09-06T00:00:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "Coritiba FBC",
-    "fora": "Mirassol FC",
-    "data": "2026-09-06T14:00:00Z",
-    "previsao": "Coritiba FBC"
-  },
-  {
     "casa": "Cruzeiro EC",
     "fora": "CA Paranaense",
     "data": "2026-09-06T19:00:00Z",
@@ -33,7 +9,7 @@
     "casa": "SC Internacional",
     "fora": "Santos FC",
     "data": "2026-09-06T19:00:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Internacional"
   },
   {
     "casa": "Clube do Remo",
@@ -57,6 +33,30 @@
     "casa": "EC Vitória",
     "fora": "Grêmio FBPA",
     "data": "2026-09-07T23:00:00Z",
-    "previsao": "EC Vitória"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "EC Bahia",
+    "fora": "Clube do Remo",
+    "data": "2026-09-12T00:00:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Coritiba FBC",
+    "fora": "CA Paranaense",
+    "data": "2026-09-12T00:00:00Z",
+    "previsao": "Coritiba FBC"
+  },
+  {
+    "casa": "CR Flamengo",
+    "fora": "SC Corinthians Paulista",
+    "data": "2026-09-12T00:00:00Z",
+    "previsao": "CR Flamengo"
+  },
+  {
+    "casa": "Mirassol FC",
+    "fora": "EC Vitória",
+    "data": "2026-09-12T00:00:00Z",
+    "previsao": "Empate"
   }
 ]
