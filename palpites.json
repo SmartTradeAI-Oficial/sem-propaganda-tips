@@ -21,7 +21,7 @@
     "casa": "Chapecoense AF",
     "fora": "SC Internacional",
     "data": "2026-09-12T20:00:00Z",
-    "previsao": "Chapecoense AF"
+    "previsao": "Empate"
   },
   {
     "casa": "SE Palmeiras",
@@ -45,7 +45,7 @@
     "casa": "Mirassol FC",
     "fora": "EC Vitória",
     "data": "2026-09-13T19:00:00Z",
-    "previsao": "Mirassol FC"
+    "previsao": "Empate"
   },
   {
     "casa": "CR Flamengo",
@@ -58,5 +58,11 @@
     "fora": "Clube do Remo",
     "data": "2026-09-14T23:00:00Z",
     "previsao": "EC Bahia"
+  },
+  {
+    "casa": "Botafogo FR",
+    "fora": "Grêmio FBPA",
+    "data": "2026-09-16T22:30:00Z",
+    "previsao": "Empate"
   }
 ]
