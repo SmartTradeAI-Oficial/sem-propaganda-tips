@@ -3,12 +3,42 @@
     "casa": "São Paulo FC",
     "fora": "Santos FC",
     "data": "2026-10-02T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "São Paulo FC"
   },
   {
     "casa": "CA Mineiro",
     "fora": "RB Bragantino",
     "data": "2026-10-03T21:30:00Z",
-    "previsao": "CA Mineiro"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "RB Bragantino",
+    "fora": "Mirassol FC",
+    "data": "2026-10-07T22:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "SC Internacional",
+    "fora": "SC Corinthians Paulista",
+    "data": "2026-10-07T22:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Clube do Remo",
+    "fora": "Grêmio FBPA",
+    "data": "2026-10-07T22:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "EC Vitória",
+    "fora": "Chapecoense AF",
+    "data": "2026-10-07T23:00:00Z",
+    "previsao": "EC Vitória"
+  },
+  {
+    "casa": "Botafogo FR",
+    "fora": "CR Vasco da Gama",
+    "data": "2026-10-07T23:30:00Z",
+    "previsao": "Botafogo FR"
   }
 ]
