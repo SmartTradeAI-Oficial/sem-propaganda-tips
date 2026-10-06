@@ -9,25 +9,25 @@
     "casa": "SC Internacional",
     "fora": "SC Corinthians Paulista",
     "data": "2026-10-07T22:30:00Z",
-    "previsao": "SC Internacional"
+    "previsao": "Empate"
   },
   {
     "casa": "Clube do Remo",
     "fora": "Grêmio FBPA",
     "data": "2026-10-07T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Clube do Remo"
   },
   {
     "casa": "EC Vitória",
     "fora": "Chapecoense AF",
     "data": "2026-10-07T23:00:00Z",
-    "previsao": "EC Vitória"
+    "previsao": "Empate"
   },
   {
     "casa": "Botafogo FR",
     "fora": "CR Vasco da Gama",
     "data": "2026-10-07T23:30:00Z",
-    "previsao": "Botafogo FR"
+    "previsao": "Empate"
   },
   {
     "casa": "Cruzeiro EC",
@@ -45,18 +45,60 @@
     "casa": "CA Paranaense",
     "fora": "CA Mineiro",
     "data": "2026-10-08T23:00:00Z",
-    "previsao": "CA Paranaense"
+    "previsao": "Empate"
   },
   {
     "casa": "Fluminense FC",
     "fora": "Coritiba FBC",
     "data": "2026-10-09T00:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Fluminense FC"
   },
   {
     "casa": "SE Palmeiras",
     "fora": "EC Bahia",
     "data": "2026-10-09T00:30:00Z",
     "previsao": "SE Palmeiras"
+  },
+  {
+    "casa": "CR Vasco da Gama",
+    "fora": "Clube do Remo",
+    "data": "2026-10-10T21:00:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "São Paulo FC",
+    "fora": "EC Vitória",
+    "data": "2026-10-11T00:00:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "CA Mineiro",
+    "fora": "Santos FC",
+    "data": "2026-10-11T19:00:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "CR Flamengo",
+    "fora": "Fluminense FC",
+    "data": "2026-10-11T20:30:00Z",
+    "previsao": "CR Flamengo"
+  },
+  {
+    "casa": "Grêmio FBPA",
+    "fora": "SC Internacional",
+    "data": "2026-10-11T20:30:00Z",
+    "previsao": "Grêmio FBPA"
+  },
+  {
+    "casa": "SE Palmeiras",
+    "fora": "SC Corinthians Paulista",
+    "data": "2026-10-11T20:30:00Z",
+    "previsao": "SE Palmeiras"
+  },
+  {
+    "casa": "EC Bahia",
+    "fora": "Mirassol FC",
+    "data": "2026-10-11T22:30:00Z",
+    "previsao": "Empate"
   }
 ]
