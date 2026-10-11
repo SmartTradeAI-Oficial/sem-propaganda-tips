@@ -1,17 +1,5 @@
 [
   {
-    "casa": "CR Vasco da Gama",
-    "fora": "Clube do Remo",
-    "data": "2026-10-10T21:00:00Z",
-    "previsao": "CR Vasco da Gama"
-  },
-  {
-    "casa": "São Paulo FC",
-    "fora": "EC Vitória",
-    "data": "2026-10-11T00:00:00Z",
-    "previsao": "São Paulo FC"
-  },
-  {
     "casa": "CA Mineiro",
     "fora": "Santos FC",
     "data": "2026-10-11T19:00:00Z",
@@ -58,5 +46,11 @@
     "fora": "Cruzeiro EC",
     "data": "2026-10-13T00:00:00Z",
     "previsao": "Empate"
+  },
+  {
+    "casa": "Mirassol FC",
+    "fora": "SC Internacional",
+    "data": "2026-10-16T23:00:00Z",
+    "previsao": "Mirassol FC"
   }
 ]
