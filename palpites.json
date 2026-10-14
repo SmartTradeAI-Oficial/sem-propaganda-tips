@@ -39,7 +39,7 @@
     "casa": "Grêmio FBPA",
     "fora": "Cruzeiro EC",
     "data": "2026-10-18T19:00:00Z",
-    "previsao": "Grêmio FBPA"
+    "previsao": "Empate"
   },
   {
     "casa": "EC Bahia",
@@ -51,6 +51,12 @@
     "casa": "Clube do Remo",
     "fora": "RB Bragantino",
     "data": "2026-10-18T22:30:00Z",
-    "previsao": "Clube do Remo"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "SC Corinthians Paulista",
+    "fora": "EC Vitória",
+    "data": "2026-10-19T23:00:00Z",
+    "previsao": "SC Corinthians Paulista"
   }
 ]
