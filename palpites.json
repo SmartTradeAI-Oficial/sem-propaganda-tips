@@ -1,38 +1,50 @@
 [
   {
-    "casa": "Fluminense FC",
-    "fora": "Santos FC",
-    "data": "2026-10-18T19:00:00Z",
-    "previsao": "Fluminense FC"
-  },
-  {
-    "casa": "Grêmio FBPA",
-    "fora": "Cruzeiro EC",
-    "data": "2026-10-18T19:00:00Z",
-    "previsao": "Grêmio FBPA"
-  },
-  {
-    "casa": "EC Bahia",
-    "fora": "CR Flamengo",
-    "data": "2026-10-18T21:30:00Z",
-    "previsao": "CR Flamengo"
-  },
-  {
-    "casa": "Clube do Remo",
-    "fora": "RB Bragantino",
-    "data": "2026-10-18T22:30:00Z",
-    "previsao": "Empate"
-  },
-  {
     "casa": "SC Corinthians Paulista",
     "fora": "EC Vitória",
     "data": "2026-10-19T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Corinthians Paulista"
   },
   {
     "casa": "Cruzeiro EC",
     "fora": "Clube do Remo",
     "data": "2026-10-23T23:00:00Z",
     "previsao": "Empate"
+  },
+  {
+    "casa": "SC Internacional",
+    "fora": "Botafogo FR",
+    "data": "2026-10-24T19:30:00Z",
+    "previsao": "SC Internacional"
+  },
+  {
+    "casa": "Mirassol FC",
+    "fora": "São Paulo FC",
+    "data": "2026-10-24T19:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "EC Vitória",
+    "fora": "CA Paranaense",
+    "data": "2026-10-24T19:30:00Z",
+    "previsao": "EC Vitória"
+  },
+  {
+    "casa": "SE Palmeiras",
+    "fora": "RB Bragantino",
+    "data": "2026-10-24T21:30:00Z",
+    "previsao": "SE Palmeiras"
+  },
+  {
+    "casa": "CR Vasco da Gama",
+    "fora": "SC Corinthians Paulista",
+    "data": "2026-10-24T21:30:00Z",
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Chapecoense AF",
+    "fora": "Fluminense FC",
+    "data": "2026-10-24T22:30:00Z",
+    "previsao": "Chapecoense AF"
   }
 ]
