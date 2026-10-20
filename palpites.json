@@ -1,15 +1,9 @@
 [
   {
-    "casa": "SC Corinthians Paulista",
-    "fora": "EC Vitória",
-    "data": "2026-10-19T23:00:00Z",
-    "previsao": "SC Corinthians Paulista"
-  },
-  {
     "casa": "Cruzeiro EC",
     "fora": "Clube do Remo",
     "data": "2026-10-23T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "SC Internacional",
@@ -27,7 +21,7 @@
     "casa": "EC Vitória",
     "fora": "CA Paranaense",
     "data": "2026-10-24T19:30:00Z",
-    "previsao": "EC Vitória"
+    "previsao": "Empate"
   },
   {
     "casa": "SE Palmeiras",
@@ -39,12 +33,18 @@
     "casa": "CR Vasco da Gama",
     "fora": "SC Corinthians Paulista",
     "data": "2026-10-24T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "CR Vasco da Gama"
   },
   {
     "casa": "Chapecoense AF",
     "fora": "Fluminense FC",
     "data": "2026-10-24T22:30:00Z",
-    "previsao": "Chapecoense AF"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Santos FC",
+    "fora": "EC Bahia",
+    "data": "2026-10-25T01:00:00Z",
+    "previsao": "Empate"
   }
 ]
