@@ -1,27 +1,15 @@
 [
   {
-    "casa": "Coritiba FBC",
-    "fora": "Grêmio FBPA",
-    "data": "2026-10-26T22:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "CR Flamengo",
-    "fora": "CA Mineiro",
-    "data": "2026-10-26T23:00:00Z",
-    "previsao": "CR Flamengo"
-  },
-  {
     "casa": "RB Bragantino",
     "fora": "Chapecoense AF",
     "data": "2026-10-28T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "RB Bragantino"
   },
   {
     "casa": "Fluminense FC",
     "fora": "SC Internacional",
     "data": "2026-10-28T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Fluminense FC"
   },
   {
     "casa": "Santos FC",
@@ -39,7 +27,7 @@
     "casa": "Clube do Remo",
     "fora": "Botafogo FR",
     "data": "2026-10-29T00:30:00Z",
-    "previsao": "Clube do Remo"
+    "previsao": "Empate"
   },
   {
     "casa": "CA Mineiro",
