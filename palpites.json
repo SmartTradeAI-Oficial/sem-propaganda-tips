@@ -39,7 +39,7 @@
     "casa": "São Paulo FC",
     "fora": "SC Corinthians Paulista",
     "data": "2026-11-05T00:30:00Z",
-    "previsao": "Empate"
+    "previsao": "São Paulo FC"
   },
   {
     "casa": "SE Palmeiras",
@@ -51,12 +51,12 @@
     "casa": "Cruzeiro EC",
     "fora": "EC Bahia",
     "data": "2026-11-06T00:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "EC Vitória",
     "fora": "Fluminense FC",
     "data": "2026-11-06T23:00:00Z",
-    "previsao": "EC Vitória"
+    "previsao": "Empate"
   }
 ]
