@@ -1,17 +1,5 @@
 [
   {
-    "casa": "Chapecoense AF",
-    "fora": "Mirassol FC",
-    "data": "2026-11-03T22:30:00Z",
-    "previsao": "Chapecoense AF"
-  },
-  {
-    "casa": "SC Internacional",
-    "fora": "Coritiba FBC",
-    "data": "2026-11-04T00:30:00Z",
-    "previsao": "SC Internacional"
-  },
-  {
     "casa": "CA Paranaense",
     "fora": "CR Vasco da Gama",
     "data": "2026-11-04T22:30:00Z",
@@ -45,12 +33,12 @@
     "casa": "Cruzeiro EC",
     "fora": "EC Bahia",
     "data": "2026-11-06T00:30:00Z",
-    "previsao": "Cruzeiro EC"
+    "previsao": "Empate"
   },
   {
     "casa": "EC Vitória",
     "fora": "Fluminense FC",
     "data": "2026-11-06T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "EC Vitória"
   }
 ]
