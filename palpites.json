@@ -1,29 +1,5 @@
 [
   {
-    "casa": "CA Paranaense",
-    "fora": "CR Vasco da Gama",
-    "data": "2026-11-04T22:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "CR Flamengo",
-    "fora": "Grêmio FBPA",
-    "data": "2026-11-04T22:30:00Z",
-    "previsao": "CR Flamengo"
-  },
-  {
-    "casa": "Botafogo FR",
-    "fora": "CA Mineiro",
-    "data": "2026-11-05T00:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "São Paulo FC",
-    "fora": "SC Corinthians Paulista",
-    "data": "2026-11-05T00:30:00Z",
-    "previsao": "Empate"
-  },
-  {
     "casa": "SE Palmeiras",
     "fora": "Clube do Remo",
     "data": "2026-11-05T22:30:00Z",
@@ -33,7 +9,7 @@
     "casa": "Cruzeiro EC",
     "fora": "EC Bahia",
     "data": "2026-11-06T00:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Cruzeiro EC"
   },
   {
     "casa": "EC Vitória",
