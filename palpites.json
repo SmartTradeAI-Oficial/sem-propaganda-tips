@@ -9,6 +9,30 @@
     "casa": "Chapecoense AF",
     "fora": "CR Vasco da Gama",
     "data": "2026-11-14T23:30:00Z",
-    "previsao": "Chapecoense AF"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Coritiba FBC",
+    "fora": "Santos FC",
+    "data": "2026-11-18T22:30:00Z",
+    "previsao": "Coritiba FBC"
+  },
+  {
+    "casa": "Clube do Remo",
+    "fora": "Chapecoense AF",
+    "data": "2026-11-18T23:00:00Z",
+    "previsao": "Clube do Remo"
+  },
+  {
+    "casa": "Cruzeiro EC",
+    "fora": "SE Palmeiras",
+    "data": "2026-11-18T23:30:00Z",
+    "previsao": "SE Palmeiras"
+  },
+  {
+    "casa": "CR Flamengo",
+    "fora": "CA Paranaense",
+    "data": "2026-11-18T23:30:00Z",
+    "previsao": "CR Flamengo"
   }
 ]
