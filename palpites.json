@@ -1,45 +1,21 @@
 [
   {
-    "casa": "SE Palmeiras",
-    "fora": "CR Flamengo",
-    "data": "2026-11-21T19:30:00Z",
-    "previsao": "SE Palmeiras"
-  },
-  {
-    "casa": "EC Bahia",
-    "fora": "Coritiba FBC",
-    "data": "2026-11-21T20:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "Chapecoense AF",
-    "fora": "Cruzeiro EC",
-    "data": "2026-11-22T00:00:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "CA Paranaense",
-    "fora": "Clube do Remo",
-    "data": "2026-11-22T19:00:00Z",
-    "previsao": "CA Paranaense"
-  },
-  {
     "casa": "Fluminense FC",
     "fora": "Mirassol FC",
     "data": "2026-11-22T21:30:00Z",
-    "previsao": "Empate"
+    "previsao": "Fluminense FC"
   },
   {
     "casa": "RB Bragantino",
     "fora": "CR Vasco da Gama",
     "data": "2026-11-22T22:30:00Z",
-    "previsao": "RB Bragantino"
+    "previsao": "Empate"
   },
   {
     "casa": "SC Internacional",
     "fora": "EC Vitória",
     "data": "2026-11-23T22:30:00Z",
-    "previsao": "Empate"
+    "previsao": "SC Internacional"
   },
   {
     "casa": "Botafogo FR",
@@ -51,7 +27,7 @@
     "casa": "Santos FC",
     "fora": "Grêmio FBPA",
     "data": "2026-11-24T00:00:00Z",
-    "previsao": "Empate"
+    "previsao": "Santos FC"
   },
   {
     "casa": "Chapecoense AF",
@@ -63,12 +39,18 @@
     "casa": "CA Mineiro",
     "fora": "SC Corinthians Paulista",
     "data": "2026-11-25T23:00:00Z",
-    "previsao": "CA Mineiro"
+    "previsao": "Empate"
   },
   {
     "casa": "São Paulo FC",
     "fora": "Clube do Remo",
     "data": "2026-11-26T23:00:00Z",
     "previsao": "Empate"
+  },
+  {
+    "casa": "Fluminense FC",
+    "fora": "Cruzeiro EC",
+    "data": "2026-11-27T23:00:00Z",
+    "previsao": "Fluminense FC"
   }
 ]
