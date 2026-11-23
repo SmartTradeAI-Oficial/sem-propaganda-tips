@@ -1,33 +1,9 @@
 [
   {
-    "casa": "Fluminense FC",
-    "fora": "Mirassol FC",
-    "data": "2026-11-22T21:30:00Z",
-    "previsao": "Fluminense FC"
-  },
-  {
-    "casa": "RB Bragantino",
-    "fora": "CR Vasco da Gama",
-    "data": "2026-11-22T22:30:00Z",
-    "previsao": "Empate"
-  },
-  {
-    "casa": "SC Internacional",
-    "fora": "EC Vitória",
-    "data": "2026-11-23T22:30:00Z",
-    "previsao": "SC Internacional"
-  },
-  {
-    "casa": "Botafogo FR",
-    "fora": "São Paulo FC",
-    "data": "2026-11-23T23:00:00Z",
-    "previsao": "Botafogo FR"
-  },
-  {
     "casa": "Santos FC",
     "fora": "Grêmio FBPA",
     "data": "2026-11-24T00:00:00Z",
-    "previsao": "Santos FC"
+    "previsao": "Empate"
   },
   {
     "casa": "Chapecoense AF",
@@ -39,18 +15,24 @@
     "casa": "CA Mineiro",
     "fora": "SC Corinthians Paulista",
     "data": "2026-11-25T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "CA Mineiro"
   },
   {
     "casa": "São Paulo FC",
     "fora": "Clube do Remo",
     "data": "2026-11-26T23:00:00Z",
-    "previsao": "Empate"
+    "previsao": "São Paulo FC"
   },
   {
     "casa": "Fluminense FC",
     "fora": "Cruzeiro EC",
     "data": "2026-11-27T23:00:00Z",
-    "previsao": "Fluminense FC"
+    "previsao": "Empate"
+  },
+  {
+    "casa": "Botafogo FR",
+    "fora": "EC Bahia",
+    "data": "2026-11-29T00:00:00Z",
+    "previsao": "Botafogo FR"
   }
 ]
